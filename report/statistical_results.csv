@@ -1,0 +1,12 @@
+Metric,Value
+UK Invoice Count,18020.0
+Germany Invoice Count,458.0
+UK Average Revenue,499.5418476137625
+Germany Average Revenue,499.29781659388647
+Mean Revenue Difference,0.24403101987604714
+Welch T-Statistic,0.0077913934074259695
+Welch P-Value,0.9937857221285674
+95% CI Lower Bound,-61.252965180725944
+95% CI Upper Bound,61.74102722047804
+Mann-Whitney U Statistic,3496501.0
+Mann-Whitney P-Value,2.283501815595627e-08
